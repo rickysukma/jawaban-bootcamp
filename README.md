@@ -19,6 +19,6 @@ Untuk Membukanya jawaban dari setiap soal tinggal klik linknya:
 * [prima.c](https://github.com/rickysukma/jawaban-bootcamp/blob/master/prima.cpp) - Membuat urutan bilangan prima dengan baris dan kolom (soal nomer 3).
 * [isBentrok.php](https://github.com/rickysukma/jawaban-bootcamp/blob/master/isBentrok.php) - Menghitung tabrakan jadwal dengan rumus KPK (soal nomer 4).
 * [countChar.php](https://github.com/rickysukma/jawaban-bootcamp/blob/master/countChar.php) - Menghitung karakter pada String (soal nomer 5)
-* [tableBootsrap.php](https://github.com/rickysukma/jawaban-bootcamp/blob/master/tableBootstrap.php) - Menampilkan query dari database menggunakan bootsrap twitter. Pastikan untuk konek dengan internet jika menjalankan file ini, karena resource bootstrap di direct langsung dari sever bootsrapnya sendiri. Jangan lupa import databasenya (bootcamp.sql) (soal nomer 6)
-
+* [bootcamp.sql](https://github.com/rickysukma/jawaban-bootcamp/blob/master/bootcamp.sql) - Database Produk (soal nomer 6)
+* [tableBootsrap.php](https://github.com/rickysukma/jawaban-bootcamp/blob/master/tableBootstrap.php) - Menampilkan query dari database menggunakan bootsrap twitter. Pastikan untuk konek dengan internet jika menjalankan file ini, karena resource bootstrap di direct langsung dari sever bootsrapnya sendiri. Jangan lupa import databasenya (bootcamp.sql) (soal nomer 7)
 
